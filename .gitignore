@@ -1,0 +1,62 @@
+# Ignore Visual Studio files
+.vs/
+
+# Ignore NuGet packages
+packages/
+
+# Ignore build output
+/bin/
+/obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.sln.docstates
+
+# Ignore build logs and other generated files
+*.logs
+*.cache
+*.bak
+*.tmp
+*.swp
+*.userprefs
+*.vspscc
+*.vssscc
+*.vshost.*
+*.vsp
+*.psess
+*.dbmdl
+*.pch
+*.sdf
+*.opensdf
+*.sln.docstates
+
+# Ignore Resharper files
+_ReSharper*/
+
+# Ignore StyleCop files
+StyleCop.Cache
+
+# Ignore TeamCity files
+_TeamCity*
+
+# Ignore NCrunch files
+*.ncrunch*
+.*crunch*.local.xml
+
+# Ignore RIA client files
+Generated_Code/
+
+# Ignore build results of an MSTest project
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Ignore XNA build output
+xna_game/bin/
+xna_game/obj/
+
+# Ignore Fakes assembly folder
+*.FakesAssemblies/
+
+# Ignore deployment files
+_Deploy/
