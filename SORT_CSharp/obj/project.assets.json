@@ -1,0 +1,249 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "MathNet.Filtering/0.7.0": {
+        "type": "package",
+        "dependencies": {
+          "MathNet.Numerics": "4.9.1",
+          "System.ValueTuple": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/MathNet.Filtering.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/MathNet.Filtering.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "MathNet.Filtering.Kalman/0.7.0": {
+        "type": "package",
+        "dependencies": {
+          "MathNet.Numerics": "4.9.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/MathNet.Filtering.Kalman.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/MathNet.Filtering.Kalman.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "MathNet.Numerics/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/MathNet.Numerics.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/MathNet.Numerics.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "System.ValueTuple/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathNet.Filtering/0.7.0": {
+      "sha512": "Ghm/RaCS4+29PO1XGn83shZSwDJzAGxys60xh0QZH8Dz3dqxiTIwal8kksU8vcp3GtNVRDtSgM7O3FLuhep9vw==",
+      "type": "package",
+      "path": "mathnet.filtering/0.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/net40/MathNet.Filtering.dll",
+        "lib/net40/MathNet.Filtering.xml",
+        "lib/net461/MathNet.Filtering.dll",
+        "lib/net461/MathNet.Filtering.xml",
+        "lib/netstandard1.3/MathNet.Filtering.dll",
+        "lib/netstandard1.3/MathNet.Filtering.xml",
+        "lib/netstandard2.0/MathNet.Filtering.dll",
+        "lib/netstandard2.0/MathNet.Filtering.xml",
+        "mathnet.filtering.0.7.0.nupkg.sha512",
+        "mathnet.filtering.nuspec"
+      ]
+    },
+    "MathNet.Filtering.Kalman/0.7.0": {
+      "sha512": "XCo+3Y8yP8cwVxeoLmOk6ot+vpJBHm+cKd5xdpRQlBDoxwfvJ+tq/rdUxAqe+EyYRZyHK5jhjycpXS/qQtvinA==",
+      "type": "package",
+      "path": "mathnet.filtering.kalman/0.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/net40/MathNet.Filtering.Kalman.dll",
+        "lib/net40/MathNet.Filtering.Kalman.xml",
+        "lib/net461/MathNet.Filtering.Kalman.dll",
+        "lib/net461/MathNet.Filtering.Kalman.xml",
+        "lib/netstandard1.3/MathNet.Filtering.Kalman.dll",
+        "lib/netstandard1.3/MathNet.Filtering.Kalman.xml",
+        "lib/netstandard2.0/MathNet.Filtering.Kalman.dll",
+        "lib/netstandard2.0/MathNet.Filtering.Kalman.xml",
+        "mathnet.filtering.kalman.0.7.0.nupkg.sha512",
+        "mathnet.filtering.kalman.nuspec"
+      ]
+    },
+    "MathNet.Numerics/5.0.0": {
+      "sha512": "pg1W2VwaEQMAiTpGK840hZgzavnqjlCMTVSbtVCXVyT+7AX4mc1o89SPv4TBlAjhgCOo9c1Y+jZ5m3ti2YgGgA==",
+      "type": "package",
+      "path": "mathnet.numerics/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/net461/MathNet.Numerics.dll",
+        "lib/net461/MathNet.Numerics.xml",
+        "lib/net48/MathNet.Numerics.dll",
+        "lib/net48/MathNet.Numerics.xml",
+        "lib/net5.0/MathNet.Numerics.dll",
+        "lib/net5.0/MathNet.Numerics.xml",
+        "lib/net6.0/MathNet.Numerics.dll",
+        "lib/net6.0/MathNet.Numerics.xml",
+        "lib/netstandard2.0/MathNet.Numerics.dll",
+        "lib/netstandard2.0/MathNet.Numerics.xml",
+        "mathnet.numerics.5.0.0.nupkg.sha512",
+        "mathnet.numerics.nuspec"
+      ]
+    },
+    "System.ValueTuple/4.5.0": {
+      "sha512": "okurQJO6NRE/apDIP23ajJ0hpiNmJ+f0BwOlB/cSqTLQlw5upkf+5+96+iG2Jw40G1fCVCyPz/FhIABUjMR+RQ==",
+      "type": "package",
+      "path": "system.valuetuple/4.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net461/System.ValueTuple.dll",
+        "lib/net461/System.ValueTuple.xml",
+        "lib/net47/System.ValueTuple.dll",
+        "lib/net47/System.ValueTuple.xml",
+        "lib/netcoreapp2.0/_._",
+        "lib/netstandard1.0/System.ValueTuple.dll",
+        "lib/netstandard1.0/System.ValueTuple.xml",
+        "lib/netstandard2.0/_._",
+        "lib/portable-net40+sl4+win8+wp8/System.ValueTuple.dll",
+        "lib/portable-net40+sl4+win8+wp8/System.ValueTuple.xml",
+        "lib/uap10.0.16299/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net461/System.ValueTuple.dll",
+        "ref/net47/System.ValueTuple.dll",
+        "ref/netcoreapp2.0/_._",
+        "ref/netstandard2.0/_._",
+        "ref/portable-net40+sl4+win8+wp8/System.ValueTuple.dll",
+        "ref/uap10.0.16299/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.valuetuple.4.5.0.nupkg.sha512",
+        "system.valuetuple.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "MathNet.Filtering >= 0.7.0",
+      "MathNet.Filtering.Kalman >= 0.7.0",
+      "MathNet.Numerics >= 5.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Development\\C#\\SORT_CSharp\\SORT_CSharp\\SORT_CSharp.csproj",
+      "projectName": "SORT_CSharp",
+      "projectPath": "C:\\Users\\user\\Desktop\\Development\\C#\\SORT_CSharp\\SORT_CSharp\\SORT_CSharp.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Development\\C#\\SORT_CSharp\\SORT_CSharp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "MathNet.Filtering": {
+            "target": "Package",
+            "version": "[0.7.0, )"
+          },
+          "MathNet.Filtering.Kalman": {
+            "target": "Package",
+            "version": "[0.7.0, )"
+          },
+          "MathNet.Numerics": {
+            "target": "Package",
+            "version": "[5.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

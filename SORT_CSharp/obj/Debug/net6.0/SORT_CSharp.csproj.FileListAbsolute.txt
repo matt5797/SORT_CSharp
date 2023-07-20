@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Development\C#\SORT_CSharp\SORT_CSharp\bin\Debug\net6.0\SORT_CSharp.exe
+C:\Users\user\Desktop\Development\C#\SORT_CSharp\SORT_CSharp\bin\Debug\net6.0\SORT_CSharp.deps.json
+C:\Users\user\Desktop\Development\C#\SORT_CSharp\SORT_CSharp\bin\Debug\net6.0\SORT_CSharp.runtimeconfig.json
+C:\Users\user\Desktop\Development\C#\SORT_CSharp\SORT_CSharp\bin\Debug\net6.0\SORT_CSharp.dll
+C:\Users\user\Desktop\Development\C#\SORT_CSharp\SORT_CSharp\bin\Debug\net6.0\SORT_CSharp.pdb
+C:\Users\user\Desktop\Development\C#\SORT_CSharp\SORT_CSharp\obj\Debug\net6.0\SORT_CSharp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Development\C#\SORT_CSharp\SORT_CSharp\obj\Debug\net6.0\SORT_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Development\C#\SORT_CSharp\SORT_CSharp\obj\Debug\net6.0\SORT_CSharp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Development\C#\SORT_CSharp\SORT_CSharp\obj\Debug\net6.0\SORT_CSharp.AssemblyInfo.cs
+C:\Users\user\Desktop\Development\C#\SORT_CSharp\SORT_CSharp\obj\Debug\net6.0\SORT_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Development\C#\SORT_CSharp\SORT_CSharp\obj\Debug\net6.0\SORT_CSharp.dll
+C:\Users\user\Desktop\Development\C#\SORT_CSharp\SORT_CSharp\obj\Debug\net6.0\refint\SORT_CSharp.dll
+C:\Users\user\Desktop\Development\C#\SORT_CSharp\SORT_CSharp\obj\Debug\net6.0\SORT_CSharp.pdb
+C:\Users\user\Desktop\Development\C#\SORT_CSharp\SORT_CSharp\obj\Debug\net6.0\SORT_CSharp.genruntimeconfig.cache
+C:\Users\user\Desktop\Development\C#\SORT_CSharp\SORT_CSharp\obj\Debug\net6.0\ref\SORT_CSharp.dll

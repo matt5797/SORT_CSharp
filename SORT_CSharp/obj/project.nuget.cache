@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/JDQ56ZwwSc7Ss4i6qzVcWm989rWAsHIgbAevAVS2efUEogbdaMEZo+Q4n/vEqMVNSxSRs0tzg5zmzZS8KT99A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Development\\C#\\SORT_CSharp\\SORT_CSharp\\SORT_CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\mathnet.filtering\\0.7.0\\mathnet.filtering.0.7.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mathnet.filtering.kalman\\0.7.0\\mathnet.filtering.kalman.0.7.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

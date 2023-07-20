@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SORT_CSharp/1.0.0": {
+        "runtime": {
+          "SORT_CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SORT_CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
